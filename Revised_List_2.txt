@@ -1,0 +1,64 @@
+Note : Experiment 1 : Explain program development step in C++.
+## PROGRAMS LIST ##
+[1] WAP to print your name.
+[2] WAP to find the sum of two numbers.
+[3] WAP to find the sum of two user-defined numbers.
+[4] WAP to find area of a circle (pi*r^2).
+[5] WAP to find volume of sphere (4/3 pi*r^3).
+[6] WAP to find average of five numbers.
+[7] WAP to calculate simple interest for a principle amount ({p*r*t}/100).
+[8] WAP to show the working of getch() function.
+[9] WAP to show the working of getche() function.
+[10] WAP to check whether a number is positive or negative.
+[11] WAP to check whether a number is even or odd.
+[12] WAP to find greater number from given two different numbers.
+[13] WAP to find greater number from given two numbers with either equal condition.
+[14] WAP to find greater number from given three different numbers.
+[15] WAP to find greater number from given three numbers with either equal condition.
+[16] WAP to find greater number from given four different numbers.
+[17] WAP to find greater number from given five different numbers.
+[18] WAP to perform addition , subtraction , multiplication and division on two numbers as per user's choice.
+[19] WAP to find greater number from given two different numbers using switch case statement.
+[20] WAP to find greater number from given two numbers with either equal condition using switch case statement.
+[21] WAP to find greater number from given three different numbers using switch case statement.
+[22] WAP to find greater number from given three numbers with either equal condition using switch case statement.
+[23] WAP to find greater number from given four different numbers using switch case statement.
+[24] WAP to find greater number from given five different numbers using switch case statement.
+[25] WAP to perform addition , subtraction , multiplication and division on two numbers as per user's choice using switch case statement.
+[26] WAP to print your name ten times using while statement.
+[27] WAP to print your name 'n' times using while statement.
+[28] WAP to print even numbers from 1 to n using while statement.
+[29] WAP to find sum of all odd numbers from 1 to n using while statement.
+[30] WAP to generate table of a number using while statement.
+[31] WAP to find factorial of a number using while statement.
+[32] WAP to print your name ten times using for statement.
+[33] WAP to print your name 'n' times using for statement.
+[34] WAP to print even numbers from 1 to n using for statement.
+[35] WAP to find sum of all odd numbers from 1 to n using for statement.
+[36] WAP to generate table of a number using for statement.
+[37] WAP to find factorial of a number using for statement.
+[38] WAP to find whether a number is a prime number.
+[39] WAP to print all prime numbers from 1 to n.
+[40] WAP to generate a table of number using do while statement.
+[41] WAP to find factorial of a number using do while statement.
+[42] WAP to demonstrate the working of break statement.
+[43] WAP to demonstrate the working of continue statement.
+[44] WAP to generate table of a given number using goto statement.
+[45] WAP to find factorial of a given number using goto statement.
+[46] WAP to perform addition , subtraction and division of two numbers as per user's choice using goto statement.
+[47] WAP to print the digit (0 to 9) in words using goto statement.
+[48] WAP to create a single dimensional array and display its elements.
+[49] WAP to initialize the elements of single dimensional array by user defined values and display it.
+[50] WAP to find sum of elements in given integer array.
+[51] WAP to get average of numbers of a single dimensional integer array.
+[52] WAP to print elements of an array in reverse order.
+[53] WAP to get elements of an array in reverse order using another array.
+[54] WAP to find a maximum element from given single dimensional array.
+[55] WAP to get elements of an array in reverse order without using another array.
+[56] WAP to search for an element in a given integer array.
+[57] WAP to find occurence of an element in given array.
+[58] WAP to find summation of two single-dimensional arrays / matrices.
+[59] WAP to find summation of two 2-dimensional arrays / matrices.
+[60] WAP to find multiplication of two matrices.
+[61] WAP to arrange elements of an array in ascending order using bubble sort.
+[62] WAP to arrange elements of an array in ascending order using selection sort.

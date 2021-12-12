@@ -1,0 +1,27 @@
+#include <stdio.h>
+void main()
+{
+  int a, c;
+  char b, d;
+  float e;
+  printf("Toh Start Krte Hai-->\n");
+  printf("Choose any One Number:\n");
+  scanf("%d", &a);
+  printf("Kuch Bhi Choose kiya ho chalni meri hai yahan...\n");
+
+  printf("Acha Kuch bolu ?\n Y or N?\n");
+  scanf(" %c", &b);
+  printf("Hn to main khe rha tha ki birthday kb aane wla hai ?\n Date?\n ");
+  scanf("%d", &c);
+  printf("haan toh party nai chahiye mujhe (dil ma pathar rakh ke)\n Ghar mt jaana!! \n Bs choti si birthday treat chalegi\n");
+  printf(" --->Acha main baat ghr mt jaana \n Main nhi chiduga na ladai kruga aur\n Na hi free hone ki koshish (chiii gandi)\n aur kuch bolu?(toh press 1)\n ");
+  printf("bs bs itna hi aur yeh sb conditions jb tb tera mann krega ghr jaane smjhi na hoshyari \n");
+
+  printf("acha ek baat bata mujhe miss nai krti na behuda aurat(Y or N):\n");
+  scanf("% c", &d);
+  printf("dekh tu miss kre ya na kre main thoda ya jaada pata nai but miss krta hoon \nhmmmmm hmmmmm..... Dost(Demon) hai tu meri.\n");
+  printf("Aaj Teacher's day hai na?(Y or N)\n");
+  scanf(" %f", &e);
+  printf("Aaj agar tujhe nai pata to aaj hai so happy Teacher's day \n Aaj teacher bhi ban ja maate,baap(oops! with respect bhool nai skte na),didi ,bhai\n ");
+  printf("hn mera ho gaya ab Thanks aaj aane ke liye!!!");
+}
