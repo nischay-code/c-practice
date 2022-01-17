@@ -1,11 +1,15 @@
-#include<stdio.h>
+//WAP to accept any alphabet and change its case.( there are no change other character)
+#include <stdio.h>
+
 int main()
 {
-    int a;
-    double b;
-    printf("Enter the Bytes:");
-    scanf("%d",&a);
-    b=a/1024.00/1024/1024;
-    printf("Gigabytes : %lf  \n",b);
+    char a;
+    printf("Enter the Char:");
+    scanf("%c", &a);
+    for (char i = 97; i <= 122; i++)
+    {
+        printf("%c\n",i);
+    }
+
     return 0;
 }
